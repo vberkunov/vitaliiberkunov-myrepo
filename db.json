@@ -1,4 +1,6 @@
-{
+{ locations: [
+ 
+ {
   "id": 1,
   "name": "Degtyarivska",
   "tag": {
@@ -7,4 +9,26 @@
     "x": 50.5,
     "y": 75.3
   }
+},
+  {
+  "id": 2,
+  "name": "Degtyarivska",
+  "tag": {
+    "id": 2,
+    "name": "printer",
+    "x": 55.5,
+    "y": 73.3
+  },
+  {
+  "id": 3,
+  "name": "Degtyarivska",
+  "tag": {
+    "id": 2,
+    "name": "printer",
+    "x": 55.5,
+    "y": 73.3
+  }
+  
+  
+  ]
 }
