@@ -1,1 +1,10 @@
-
+{
+  "id": 1,
+  "name": "Degtyarivska",
+  "tag": {
+    "id": 1,
+    "name": "printer",
+    "x": 50.5,
+    "y": 75.3
+  }
+}
